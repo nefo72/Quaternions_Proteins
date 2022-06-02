@@ -1,0 +1,4 @@
+# Predicción Estructural de Proteínas
+
+ Esta red intenta predecir  la estructura secundaria de una proteína  a partir de su secuencia  de aminoácidos, busca encontrar patrones asociados  a orientaciones tridimiencionales definidas dadas por los cuaterniones . Para poder correr la red se necesita tener instalado  python 2 o superior, keras, pyrr y math. El proyecto  aun no está finalizado y falta referenciar mas artículos y  modelos que sirvieron como guía para este proyecto, para mas información  puedes consultar  mi artículo (solo es un resumen de información no un artículo oficial) con el nombre My_article.
+
